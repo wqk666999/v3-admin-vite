@@ -1,6 +1,6 @@
 <template>
   <div class="app-container center">
-    <el-empty description="欢迎来到 editor 角色专属首页" />
+    <el-empty description="2欢迎来到 editor 角色专属首页" />
   </div>
 </template>
 
@@ -8,7 +8,7 @@
 .center {
   height: 100%;
   display: flex;
-  justify-content: center;
+  justify-content: right;
   align-items: center;
 }
 </style>
